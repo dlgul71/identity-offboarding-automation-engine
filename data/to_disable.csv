@@ -1,0 +1,4 @@
+email,sam_account_name,source_system,active,ad_groups
+john.doe@company.com,jdoe,AD,True,GG-Prod-Users;GG-Shared-Drives-Prod
+mary.smith@company.com,msmith,AD,True,GG-Finance-Users
+alex.jones@company.com,ajones,AD,False,GG-Temp-Workers

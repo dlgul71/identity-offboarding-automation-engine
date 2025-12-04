@@ -1,0 +1,4 @@
+employee_id,first_name,last_name,email,last_day
+1001,John,Doe,john.doe@company.com,2025-11-30
+1002,Mary,Smith,mary.smith@company.com,2025-11-28
+1003,Alex,Jones,alex.jones@company.com,2025-11-25
